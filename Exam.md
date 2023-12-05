@@ -12,4 +12,7 @@ gunzip SRR1754715.fastq.gz
 gunzip SRR1754722.fastq.gz
 gunzip SRR1754730.fastq.gz
 ```
-Maintenant que les fichiers sont dézipés, on les runs via le logiciel FastQC en utilisant trois script (ba
+Maintenant que les fichiers sont dézipés, on les runs via le logiciel FastQC en utilisant trois script (batch_fastqc.sh ; run_fastqc.sh ; parsing_fastqc.sh)
+```
+./batch_fastqc.sh SRR1754715.fastq SRR1754722.fastq SRR1754730.fastq 
+```
