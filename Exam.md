@@ -16,3 +16,7 @@ Maintenant que les fichiers sont dézipés, on les runs via le logiciel FastQC e
 ```
 ./batch_fastqc.sh SRR1754715.fastq SRR1754722.fastq SRR1754730.fastq 
 ```
+On s'assure que les scripts ont bien fonctionné : 
+```
+cat Results_fastq_parsing.txt
+```
