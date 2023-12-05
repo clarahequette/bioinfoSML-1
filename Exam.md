@@ -1,5 +1,5 @@
-#EXAM 2023 - BIOINFORMATIQUE 
-##Exercice 1
+# EXAM 2023 - BIOINFORMATIQUE 
+## Exercice 1
 
 Dans un premier temps, les trois dernières files du projet SRP021469 sont téléchargés via le site NCBI. Les numéros d'accessions de nos séquences SRA sont les suivantes :
 - SRR1754715
